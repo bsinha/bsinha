@@ -1,5 +1,11 @@
 ## Hi there, I am Bipul Sinha 👋
 
+  ![](https://komarev.com/ghpvc/?username=bsinha&color=green)  
+  [![Website](https://img.shields.io/website?label=bsinha&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://www.linkedin.com/in/bipulsinha/)
+  [![Twitter Follow](https://img.shields.io/twitter/follow/imbipulsinha?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/imbipulsinha)
+
+
+
 - I am a Sr. Solution Architect, a Quantum Computing and Quantum Machine Learning Practitioner,  an AI & ML Practitioner, a Cloud Architect, and an Author.
 <!--
 **bsinha/bsinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
