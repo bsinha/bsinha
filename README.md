@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi there, I am Bipul Sinha 👋
 
+- I am a Sr. Solution Architect, a Quantum Computing and Quantum Machine Learning Practitioner,  an AI & ML Practitioner, a Cloud Architect, and an Author.
 <!--
 **bsinha/bsinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
