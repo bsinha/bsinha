@@ -6,18 +6,21 @@
 
 
 
-- I am a Sr. Solution Architect, a Quantum Computing and Quantum Machine Learning Practitioner,  an AI & ML Practitioner, a Cloud Architect, and an Author.
+- 
+-
 <!--
 **bsinha/bsinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
-Here are some ideas to get you started:
+- 🔭 I'm a Sr. Solution Architect, a Quantum Computing and Quantum Machine Learning Practitioner,  an Artificial Intelligence & Machine Learning Practitioner, a Cloud Architect, and an Author.
+- 🔭 I'm a seasoned fullstack Microservices Architect, an MSA and MFA practitioner
+- 🔭 I’m currently working on developing an auto trading bot
+- 🌱 I’m currently learning Generative AI
+- 👯 I’m looking to collaborate on QML, QAI, AI and ML projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 💬 Ask me about technologies such as Quantum, AI/ML, Cloud and MSA
+- 📫 How to reach me: Email me at bipulnsinha@gmail.com
+<!--- 🤔 I’m looking for help with ...-
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+->
