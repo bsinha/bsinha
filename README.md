@@ -5,7 +5,7 @@
 ![GitHub Banner](https://source.unsplash.com/1600x400/?technology,abstract)
 
 ## 🚀 About Me
-🔹 **Sr. Solution Architect** specializing in **AI, ML, and Quantum Computing**  
+🔹 **Sr. Solution Architect** specializing in **AI/ML, Quantum Computing, BPM and Software Development**  
 🔹 Experience in **fraud detection, financial services, open banking APIs, and BPMN automation**  
 🔹 Passionate about **building scalable, intelligent solutions**  
 
@@ -16,7 +16,7 @@
 💻 **Programming:** `Java`, `Python`, `SQL`, `NoSQL`  
 🤖 **AI/ML & Data Science:** `Classical & Quantum ML`, `Fraud Detection`, `Deep Learning`  
 🌐 **Web & API Development:** `Spring Boot`, `REST APIs`, `BPMN`, `Camunda 8`  
-☁️ **DevOps & Cloud:** `Azure`, `Docker`, `Kubernetes`  
+☁️ **DevOps & Cloud:** `AWS`,`GCP`.`Azure`, `Docker`, `Kubernetes`  
 📊 **Data Visualization & Analytics:** `Power BI`, `Seaborn`, `Matplotlib`  
 📌 **Project Management:** `RFPs`, `Solution Architecture`, `Business Process Automation`  
 
@@ -34,9 +34,9 @@
 
 ## 🎓 Education & Certifications
 
-🎓 **M.Sc. in IT (AI & ML Specialization)**  
-📜 **Quantum Computing Certification**  
-🎯 **MBA Aspirant**  
+🎓 **AI & ML Specialization Certification from MIT**  
+📜 **Quantum Computing Certification from IIT Madras, India**  
+🎯 **Masters in Compter Application**
 
 ---
 
@@ -51,8 +51,8 @@
 ## 📫 Connect with Me
 
 📌 **GitHub**: [bsinha](https://github.com/bsinha)  
-📌 **LinkedIn**: [Your LinkedIn Profile](#)  
-📌 **Email**: [Your Email](#)  
+📌 **LinkedIn**: [bipulsinha](https://www.linkedin.com/in/sinhabipul)  
+📌 **Email**: [Gmail](bipulnsinha@gmail.com)  
 
 ---
 
